@@ -1,0 +1,31 @@
+.divider:after,
+.divider:before {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: lightgray;
+}
+.left_section{
+    background-image: url("../media/banner1.png");
+    background-size: cover;
+    
+}
+/* .img1{
+    position: relative;
+    left: 0;
+    right: 0;
+} */
+.side_padding{
+    margin-right: 6rem;
+}
+.form_text{
+    color: #0083C1;
+}
+.form_wraper{
+    border: 1px solid lightgray;
+    padding: 20px;
+    border-radius: 20px;
+}
+*{
+    overflow: hidden;
+}
