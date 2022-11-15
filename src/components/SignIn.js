@@ -1,6 +1,4 @@
 import React from "react";
-import group from "../media/group.jpeg";
-import black from "../media/blackKid.jpg";
 import logo from "../media/logo.png";
 import "./Signin.css";
 
